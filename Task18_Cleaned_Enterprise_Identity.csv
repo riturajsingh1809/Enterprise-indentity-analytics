@@ -1,0 +1,181 @@
+event_id,user_id,org_name,role,membership_start,event_date,user_status,activity_count,activity_value,is_deprovisioned,include_in_analytics,membership_days,activity_value_category
+E0001,U1039,Greenfield,Analyst,2024-09-27,2025-01-11,Deleted,21,788.53,1,0,106.0,Medium
+E0002,U1019,Vertex,Admin,2024-03-28,2024-07-22,Deprovisioned,24,3257.93,1,0,116.0,Very High
+E0003,U1002,Greenfield,Manager,2025-01-20,2025-02-09,Active,76,3062.15,0,1,20.0,Very High
+E0004,U1025,Northstar,Admin,2024-02-28,2024-08-15,Deprovisioned,60,1838.15,1,0,169.0,High
+E0005,U1003,Apex,Admin,2025-10-08,2025-10-28,Active,39,76.19,0,1,20.0,Low
+E0006,U1025,Unknown,Manager,2024-08-29,2024-09-06,Active,53,1162.16,0,1,8.0,Medium
+E0007,U1028,Greenfield,Admin,2025-03-03,2025-03-10,Active,78,1961.39,0,1,7.0,High
+E0008,U1040,Greenfield,Manager,2025-01-24,2025-03-18,Active,4,932.42,0,1,53.0,Medium
+E0009,U1018,Bluepeak,Viewer,2024-06-10,2024-06-23,Deprovisioned,62,1633.4,1,0,13.0,High
+E0010,U1016,Apex,Manager,2024-02-22,2024-03-16,Active,89,1411.86,0,1,23.0,Medium
+E0011,U1029,Apex,Analyst,2025-06-04,2025-08-30,Active,8,37.56,0,1,87.0,Low
+E0012,U1011,Vertex,Analyst,2025-01-26,2025-07-07,Active,33,3033.74,0,1,162.0,Very High
+E0013,U1039,Bluepeak,Unknown,2024-01-28,2024-06-10,Active,72,2252.76,0,1,134.0,High
+E0014,U1033,Apex,Admin,2025-11-14,2026-02-25,Active,35,2366.35,0,1,103.0,High
+E0015,U1037,Vertex,Analyst,2024-01-05,2024-05-25,Active,9,3556.21,0,1,141.0,Very High
+E0016,U1026,Bluepeak,Viewer,2025-04-05,2025-09-30,Active,52,2820.75,0,1,178.0,High
+E0017,U1004,Apex,Admin,2024-08-18,2025-01-07,Active,29,1151.7,0,1,142.0,Medium
+E0018,U1032,Vertex,Admin,2024-03-26,2024-04-22,Active,42,4042.52,0,1,27.0,Very High
+E0019,U1006,Greenfield,Viewer,2025-09-11,2025-10-24,Deprovisioned,30,4417.57,1,0,43.0,Very High
+E0020,U1028,Northstar,Admin,2024-07-08,2024-11-13,Active,27,2141.27,0,1,128.0,High
+E0021,U1013,Northstar,Admin,2024-12-24,2025-05-27,Active,62,0.0,0,1,154.0,Low
+E0022,U1024,Vertex,Manager,2025-11-02,2026-02-05,Active,52,1824.51,0,1,95.0,High
+E0023,U1012,Bluepeak,Admin,2024-04-22,2024-07-31,Active,56,194.07,0,1,100.0,Low
+E0024,U1002,Bluepeak,Viewer,2025-07-19,2025-10-13,Deleted,96,4542.25,1,0,86.0,Very High
+E0025,U1019,Bluepeak,Analyst,2025-11-14,2026-04-22,Deprovisioned,55,3810.48,1,0,159.0,Very High
+E0026,U1010,Apex,Viewer,2025-09-01,2026-01-17,Active,73,1610.69,0,1,138.0,High
+E0027,U1006,Apex,Admin,2025-10-21,2026-04-02,Active,90,2565.34,0,1,163.0,High
+E0028,U1019,Greenfield,Viewer,2025-05-03,2025-10-10,Active,1,3381.69,0,1,160.0,Very High
+E0029,U1025,Bluepeak,Admin,2025-02-18,2025-03-31,Active,7,3303.32,0,1,41.0,Very High
+E0030,U1026,Northstar,Viewer,2025-07-25,2025-11-14,Active,1,474.58,0,1,112.0,Low
+E0031,U1012,Apex,Analyst,2024-06-08,2024-06-16,Active,99,3504.79,0,1,8.0,Very High
+E0032,U1016,Vertex,Viewer,2024-05-31,2024-07-23,Active,24,4256.13,0,1,53.0,Very High
+E0033,U1008,Greenfield,Manager,2024-04-13,2024-07-05,Active,89,3320.87,0,1,83.0,Very High
+E0034,U1029,Bluepeak,Viewer,2024-12-03,2025-01-25,Active,80,4972.34,0,1,53.0,Very High
+E0035,U1036,Northstar,Viewer,2025-02-01,2025-02-21,Deprovisioned,8,4247.62,1,0,20.0,Very High
+E0036,U1017,Northstar,Viewer,2025-04-04,2025-07-27,Deleted,51,4461.31,1,0,114.0,Very High
+E0037,U1027,Vertex,Manager,2024-10-03,2024-11-01,Active,28,3347.93,0,1,29.0,Very High
+E0038,U1033,Vertex,Viewer,2025-10-20,2025-10-23,Active,64,3230.91,0,1,3.0,Very High
+E0039,U1017,Greenfield,Viewer,2024-06-06,2024-07-21,Deleted,6,1857.09,1,0,45.0,High
+E0040,U1037,Apex,Analyst,2024-10-28,2025-01-30,Active,60,4266.52,0,1,94.0,Very High
+E0041,U1021,Northstar,Viewer,2024-11-18,2025-03-25,Active,25,1979.51,0,1,127.0,High
+E0042,U1003,Bluepeak,Viewer,2025-10-24,2026-02-27,Active,2,1619.53,0,1,126.0,High
+E0043,U1040,Northstar,Analyst,2024-09-02,2025-02-24,Deleted,42,4048.71,1,0,175.0,Very High
+E0044,U1035,Bluepeak,Analyst,2025-02-11,2025-02-23,Deprovisioned,7,2512.57,1,0,12.0,High
+E0045,U1020,Northstar,Viewer,2025-05-26,2025-10-16,Deprovisioned,87,147.81,1,0,143.0,Low
+E0046,U1034,Bluepeak,Viewer,2024-02-20,2024-07-21,Active,63,4909.39,0,1,152.0,Very High
+E0047,U1022,Bluepeak,Manager,2024-12-07,2025-01-24,Deprovisioned,42,4114.78,1,0,48.0,Very High
+E0048,U1037,Northstar,Viewer,2024-02-22,2024-04-21,Deprovisioned,5,2291.75,1,0,59.0,High
+E0049,U1006,Apex,Viewer,2024-12-15,2025-01-30,Active,55,700.38,0,1,46.0,Medium
+E0050,U1016,Apex,Manager,2025-09-27,2026-01-10,Active,17,2000.12,0,1,105.0,High
+E0051,U1019,Greenfield,Manager,2024-12-11,2025-04-06,Active,12,2050.68,0,1,116.0,High
+E0052,U1001,Bluepeak,Viewer,2025-09-29,2026-01-24,Active,1,4774.78,0,1,117.0,Very High
+E0053,U1039,Apex,Manager,2024-09-03,2024-11-17,Active,16,801.65,0,1,75.0,Medium
+E0054,U1022,Northstar,Analyst,2024-08-07,2024-10-14,Active,94,4278.75,0,1,68.0,Very High
+E0055,U1005,Greenfield,Viewer,2024-08-05,2025-01-27,Deleted,39,1738.06,1,0,175.0,High
+E0056,U1030,Apex,Admin,2025-06-05,2025-08-12,Deprovisioned,34,0.0,1,0,68.0,Low
+E0057,U1010,Bluepeak,Admin,2025-03-17,2025-06-20,Active,69,3422.98,0,1,95.0,Very High
+E0058,U1016,Bluepeak,Analyst,2024-06-08,2024-08-30,Deprovisioned,50,2871.1,1,0,83.0,High
+E0059,U1033,Northstar,Analyst,2025-11-21,2026-05-10,Deleted,12,1936.65,1,0,170.0,High
+E0060,U1033,Bluepeak,Admin,2025-07-09,2025-08-06,Deleted,12,512.88,1,0,28.0,Medium
+E0061,U1002,Apex,Admin,2024-02-04,,Active,8,1933.13,0,1,,High
+E0062,U1010,Bluepeak,Manager,2025-02-21,2025-06-15,Active,7,599.64,0,1,114.0,Medium
+E0063,U1011,Apex,Viewer,2025-02-23,2025-03-15,Deleted,36,895.42,1,0,20.0,Medium
+E0064,U1009,Vertex,Analyst,2024-04-08,2024-05-13,Active,96,1710.61,0,1,35.0,High
+E0065,U1032,Apex,Viewer,2025-01-03,2025-01-15,Active,99,524.59,0,1,12.0,Medium
+E0066,U1017,Northstar,Manager,2025-08-18,2025-12-07,Active,86,1495.2,0,1,111.0,Medium
+E0067,U1019,Northstar,Viewer,2025-01-30,2025-06-25,Deprovisioned,9,1603.38,1,0,146.0,High
+E0068,U1014,Greenfield,Admin,2025-05-20,2025-09-07,Deleted,69,1473.12,1,0,110.0,Medium
+E0069,U1025,Greenfield,Admin,2025-04-13,2025-06-04,Active,39,465.12,0,1,52.0,Low
+E0070,U1039,Bluepeak,Analyst,2024-06-11,2024-08-24,Active,76,3443.27,0,1,74.0,Very High
+E0071,U1017,Apex,Manager,2025-06-02,2025-11-22,Deleted,40,373.09,1,0,173.0,Low
+E0072,U1027,Bluepeak,Manager,2025-05-31,2025-06-28,Deleted,38,4933.33,1,0,28.0,Very High
+E0073,U1001,Greenfield,Analyst,2025-05-25,2025-08-03,Active,45,3769.36,0,1,70.0,Very High
+E0074,U1006,Greenfield,Admin,2025-03-20,2025-07-05,Active,74,4532.71,0,1,107.0,Very High
+E0075,U1039,Vertex,Analyst,2025-10-14,2026-02-16,Active,20,602.9,0,1,125.0,Medium
+E0076,U1039,Northstar,Admin,2024-12-13,2025-04-04,Active,0,2646.57,0,1,112.0,High
+E0077,U1006,Bluepeak,Viewer,2025-11-15,2026-04-23,Deleted,61,1620.21,1,0,159.0,High
+E0078,U1016,Apex,Admin,2024-08-16,2025-01-26,Active,19,4846.82,0,1,163.0,Very High
+E0079,U1018,Northstar,Analyst,2025-06-09,2025-10-29,Active,54,2925.73,0,1,142.0,High
+E0080,U1016,Northstar,Admin,2024-01-12,2024-03-25,Deprovisioned,24,3104.46,1,0,73.0,Very High
+E0081,U1008,Bluepeak,Viewer,2025-11-06,2026-02-03,Active,60,2922.44,0,1,89.0,High
+E0082,U1028,Apex,Analyst,2025-05-16,2025-10-07,Active,33,2061.92,0,1,144.0,High
+E0083,U1013,Greenfield,Viewer,2025-07-11,2025-08-14,Deleted,6,4749.5,1,0,34.0,Very High
+E0084,U1005,Northstar,Manager,2024-01-10,2024-03-05,Active,5,141.57,0,1,55.0,Low
+E0085,U1033,Northstar,Manager,2024-08-11,2025-02-03,Active,85,3750.4,0,1,176.0,Very High
+E0086,U1025,Vertex,Admin,2025-11-19,2026-04-28,Active,99,677.92,0,1,160.0,Medium
+E0087,U1021,Greenfield,Analyst,2025-10-06,2026-01-15,Active,53,2929.9,0,1,101.0,High
+E0088,U1037,Bluepeak,Manager,2024-03-23,2024-08-14,Deleted,78,1033.18,1,0,144.0,Medium
+E0089,U1001,Unknown,Analyst,2025-03-21,2025-07-11,Active,92,1350.68,0,1,112.0,Medium
+E0090,U1039,Bluepeak,Manager,2025-11-04,2026-03-01,Active,50,4262.39,0,1,117.0,Very High
+E0091,U1005,Vertex,Analyst,2025-02-04,2025-05-26,Deleted,85,3200.41,1,0,111.0,Very High
+E0092,U1011,Vertex,Admin,2025-02-25,2025-04-03,Active,98,3186.86,0,1,37.0,Very High
+E0093,U1015,Vertex,Admin,2025-03-22,2025-05-12,Active,38,2260.04,0,1,51.0,High
+E0094,U1015,Greenfield,Manager,2024-04-15,2024-06-04,Active,5,3984.39,0,1,50.0,Very High
+E0095,U1010,Northstar,Manager,2025-05-22,2025-08-13,Deleted,34,3107.82,1,0,83.0,Very High
+E0096,U1002,Apex,Manager,2024-02-12,2024-06-05,Active,23,648.95,0,1,114.0,Medium
+E0097,U1031,Vertex,Manager,2025-06-03,2025-10-12,Deprovisioned,56,2064.19,1,0,131.0,High
+E0098,U1032,Vertex,Admin,2024-04-02,2024-09-08,Active,61,969.52,0,1,159.0,Medium
+E0099,U1019,Apex,Analyst,2025-04-10,2025-07-10,Active,61,168.71,0,1,91.0,Low
+E0100,U1006,Northstar,Analyst,2024-08-20,2024-08-31,Active,46,1827.71,0,1,11.0,High
+E0101,U1014,Bluepeak,Analyst,2024-03-13,2024-04-07,Active,47,1250.5,0,1,25.0,Medium
+E0102,U1030,Vertex,Admin,2024-02-17,2024-04-17,Active,26,4342.82,0,1,60.0,Very High
+E0103,U1008,Northstar,Admin,2024-09-09,2025-03-07,Active,28,1850.88,0,1,179.0,High
+E0104,U1024,Bluepeak,Analyst,2025-10-27,2025-11-09,Active,56,674.25,0,1,13.0,Medium
+E0105,U1003,Vertex,Admin,2025-05-22,2025-06-08,Active,38,2667.76,0,1,17.0,High
+E0106,U1015,Northstar,Admin,2025-04-29,2025-05-26,Active,39,1617.18,0,1,27.0,High
+E0107,U1039,Bluepeak,Manager,2025-06-20,2025-11-11,Deleted,84,2375.11,1,0,144.0,High
+E0108,U1010,Vertex,Analyst,2024-04-18,2024-09-10,Deprovisioned,86,2938.34,1,0,145.0,High
+E0109,U1008,Northstar,Viewer,2025-08-17,2025-09-27,Active,6,4499.24,0,1,41.0,Very High
+E0110,U1034,Vertex,Viewer,2024-11-10,2025-02-26,Deleted,33,47.6,1,0,108.0,Low
+E0111,U1021,Bluepeak,Manager,2025-03-21,2025-05-21,Active,3,2627.31,0,1,61.0,High
+E0112,U1040,Apex,Viewer,2024-08-10,2024-08-15,Active,84,4847.66,0,1,5.0,Very High
+E0113,U1004,Northstar,Manager,2025-05-18,2025-11-12,Active,66,2788.25,0,1,178.0,High
+E0114,U1008,Bluepeak,Admin,2024-06-21,2024-08-03,Deleted,70,4840.29,1,0,43.0,Very High
+E0115,U1004,Vertex,Viewer,2024-08-12,2024-08-31,Active,12,583.04,0,1,19.0,Medium
+E0116,U1026,Apex,Manager,2024-05-18,2024-08-25,Deleted,3,268.6,1,0,99.0,Low
+E0117,U1010,Apex,Admin,2025-10-11,2026-03-31,Active,13,3426.01,0,1,171.0,Very High
+E0118,U1020,Northstar,Admin,2025-09-04,2025-11-15,Active,9,2982.24,0,1,72.0,High
+E0119,U1024,Vertex,Manager,2024-04-04,2024-05-22,Deleted,62,3732.41,1,0,48.0,Very High
+E0120,U1014,Apex,Viewer,2025-04-03,2025-08-17,Active,76,1902.35,0,1,136.0,High
+E0121,U1001,Greenfield,Analyst,2024-12-14,2025-02-23,Active,14,3999.69,0,1,71.0,Very High
+E0122,U1035,Apex,Analyst,2024-01-05,2024-03-27,Active,78,2620.1,0,1,82.0,High
+E0123,U1004,Northstar,Analyst,2024-02-11,2024-05-09,Active,40,2265.22,0,1,88.0,High
+E0124,U1040,Vertex,Analyst,2025-02-25,2025-06-01,Active,25,1783.26,0,1,96.0,High
+E0125,U1002,Apex,Viewer,2024-04-13,2024-10-08,Active,70,4699.76,0,1,178.0,Very High
+E0126,U1007,Vertex,Viewer,2025-07-07,2025-07-21,Deleted,33,2671.97,1,0,14.0,High
+E0127,U1039,Vertex,Viewer,2024-06-05,2024-07-12,Active,97,3537.83,0,1,37.0,Very High
+E0128,U1027,Northstar,Manager,2024-07-14,2024-10-07,Active,10,2474.97,0,1,85.0,High
+E0129,U1010,Northstar,Manager,2024-06-07,2024-07-23,Deprovisioned,88,3023.75,1,0,46.0,Very High
+E0130,U1015,Apex,Viewer,2024-09-17,2025-02-20,Deprovisioned,76,3861.69,1,0,156.0,Very High
+E0131,U1027,Vertex,Admin,2024-10-18,2024-11-12,Active,27,1735.02,0,1,25.0,High
+E0132,U1011,Bluepeak,Viewer,2025-07-03,2025-11-13,Active,46,3078.6,0,1,133.0,Very High
+E0133,U1026,Apex,Viewer,2024-07-28,2024-11-15,Deprovisioned,43,4661.27,1,0,110.0,Very High
+E0134,U1036,Greenfield,Analyst,2024-05-06,2024-08-19,Active,92,1878.43,0,1,105.0,High
+E0135,U1009,Vertex,Analyst,2025-04-06,2025-05-15,Active,86,4554.32,0,1,39.0,Very High
+E0136,U1001,Apex,Analyst,2024-12-11,2025-03-30,Deprovisioned,54,4189.08,1,0,109.0,Very High
+E0137,U1001,Vertex,Viewer,2025-10-22,2026-04-14,Active,53,1682.63,0,1,174.0,High
+E0138,U1026,Northstar,Admin,2025-07-28,2025-08-21,Active,75,4615.57,0,1,24.0,Very High
+E0139,U1007,Bluepeak,Admin,2025-02-21,2025-05-22,Active,43,173.9,0,1,90.0,Low
+E0140,U1024,Northstar,Admin,2024-06-28,2024-09-23,Active,49,3904.67,0,1,87.0,Very High
+E0141,U1022,Bluepeak,Viewer,2025-04-13,2025-05-31,Active,84,2300.36,0,1,48.0,High
+E0142,U1020,Greenfield,Admin,2024-12-25,2025-02-11,Active,96,344.71,0,1,48.0,Low
+E0143,U1023,Vertex,Admin,2024-11-13,2024-12-14,Deleted,49,192.38,1,0,31.0,Low
+E0144,U1030,Vertex,Manager,2025-08-12,2025-12-04,Active,66,2676.93,0,1,114.0,High
+E0145,U1030,Vertex,Admin,2025-10-05,2026-02-10,Deleted,55,4731.12,1,0,128.0,Very High
+E0146,U1032,Bluepeak,Manager,2024-06-10,2024-10-11,Active,87,4894.87,0,1,123.0,Very High
+E0147,U1032,Bluepeak,Admin,2024-12-14,2024-12-21,Active,57,1117.64,0,1,7.0,Medium
+E0148,U1024,Vertex,Admin,2024-11-23,2025-01-15,Active,67,4438.43,0,1,53.0,Very High
+E0149,U1028,Bluepeak,Admin,2024-04-05,2024-07-01,Active,16,1991.95,0,1,87.0,High
+E0150,U1037,Apex,Manager,2024-01-07,2024-03-20,Active,23,4242.16,0,1,73.0,Very High
+E0151,U1019,Greenfield,Analyst,2025-11-30,2026-02-19,Active,1,4089.04,0,1,81.0,Very High
+E0152,U1020,Vertex,Manager,2025-01-20,2025-05-18,Deprovisioned,20,3124.5,1,0,118.0,Very High
+E0153,U1038,Northstar,Manager,2024-02-22,2024-08-11,Active,86,3901.0,0,1,171.0,Very High
+E0154,U1017,Bluepeak,Manager,2025-09-23,2025-11-20,Active,81,1350.7,0,1,58.0,Medium
+E0155,U1040,Bluepeak,Analyst,2024-10-07,2025-01-17,Active,22,4176.3,0,1,102.0,Very High
+E0156,U1004,Bluepeak,Manager,2024-01-29,2024-05-16,Active,87,3419.09,0,1,108.0,Very High
+E0157,U1006,Bluepeak,Viewer,2024-02-11,2024-05-20,Active,38,345.21,0,1,99.0,Low
+E0158,U1037,Northstar,Manager,2025-01-12,2025-03-28,Deleted,86,693.06,1,0,75.0,Medium
+E0159,U1031,Vertex,Viewer,2025-09-01,2025-09-12,Deleted,53,885.1,1,0,11.0,Medium
+E0160,U1017,Bluepeak,Analyst,2025-04-20,2025-08-19,Active,54,3692.79,0,1,121.0,Very High
+E0161,U1036,Vertex,Manager,2024-01-29,2024-06-25,Active,40,2191.6,0,1,148.0,High
+E0162,U1036,Northstar,Admin,2024-08-14,2024-10-06,Active,55,3321.72,0,1,53.0,Very High
+E0163,U1022,Apex,Viewer,2024-10-15,2024-11-19,Deprovisioned,83,2979.44,1,0,35.0,High
+E0164,U1017,Vertex,Analyst,2025-04-26,2025-09-26,Active,73,384.94,0,1,153.0,Low
+E0165,U1017,Northstar,Analyst,2024-03-01,2024-08-18,Active,25,1239.55,0,1,170.0,Medium
+E0166,U1003,Bluepeak,Analyst,2024-04-17,2024-10-05,Active,94,36.22,0,1,171.0,Low
+E0167,U1012,Vertex,Analyst,2024-02-13,2024-04-01,Deleted,17,4751.68,1,0,48.0,Very High
+E0168,U1012,Vertex,Viewer,2025-10-22,2026-01-10,Deleted,80,4247.49,1,0,80.0,Very High
+E0169,U1025,Bluepeak,Analyst,2024-09-24,2025-02-13,Active,26,267.46,0,1,142.0,Low
+E0170,U1026,Bluepeak,Viewer,2025-02-04,2025-07-04,Active,85,2371.32,0,1,150.0,High
+E0171,U1007,Apex,Admin,2024-05-16,2024-09-07,Active,59,4721.89,0,1,114.0,Very High
+E0172,U1018,Greenfield,Admin,2025-02-05,2025-05-18,Active,14,2985.39,0,1,102.0,High
+E0173,U1035,Greenfield,Viewer,2024-04-07,2024-08-15,Deleted,43,1705.98,1,0,130.0,High
+E0174,U1023,Greenfield,Admin,2025-06-10,2025-10-07,Active,4,3955.71,0,1,119.0,Very High
+E0175,U1025,Apex,Manager,2024-06-09,2024-06-24,Deleted,42,4384.56,1,0,15.0,Very High
+E0176,U1002,Vertex,Manager,2025-06-29,2025-12-03,Active,13,2649.4,0,1,157.0,High
+E0177,U1032,Vertex,Admin,2024-02-08,2024-03-24,Deprovisioned,29,3838.27,1,0,45.0,Very High
+E0178,U1029,Apex,Viewer,2025-11-27,2025-12-12,Deprovisioned,10,467.58,1,0,15.0,Low
+E0179,U1039,Greenfield,Analyst,2025-07-30,2026-01-22,Active,45,1779.56,0,1,176.0,High
+E0180,U1030,Bluepeak,Viewer,2024-05-25,2024-06-30,Active,48,99.19,0,1,36.0,Low
